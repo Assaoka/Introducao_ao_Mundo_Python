@@ -1,3 +1,3 @@
-# DESAFIO 001 -  Crie um programa qua escreva "Olá, Mundo!' na tala.
+# DESAFIO 001 - Crie um programa que escreva "Olá, Mundo!' na tela.
 
 print('Olá Mundo!')
