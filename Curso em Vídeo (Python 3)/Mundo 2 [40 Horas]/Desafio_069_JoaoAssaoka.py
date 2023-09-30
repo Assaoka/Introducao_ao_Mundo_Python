@@ -19,7 +19,7 @@ while True:
     print('============================')
     if continuar == 'N': break
 
-print(f'''Foram Cadastrados:
+print(f'''\nForam Cadastrados:
  - {maior18} {"Pessoa" if maior18 == 1 else "Pessoas"} com Mais de 18 Anos.
  - {homens} {"Homem" if homens == 1 else "Homens"}.
  - {mulherSub20} {"Mulher" if mulherSub20 == 1 else "Mulheres"} com Menos de 20 Anos.\n''')
