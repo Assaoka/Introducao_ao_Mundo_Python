@@ -1,5 +1,4 @@
-# Olá! Seja bem-vindo!
-## Sobre o Repositório:
+<h1  align="center"> Olá! Bem-vindo ao Repositório <br>Introdução ao Python </h1>
 <p align="justify">
 &emsp;&emsp;
 Criei este repositório com o propósito de compartilhar os projetos que estou desenvolvendo ao longo da minha jornada de aprendizado em Python. Pretendo iniciar assistindo as aulas do Curso de Python 3 da plataforma "Curso em Vídeo" e realizando uma 'tradução' dos conhecimentos adquiridos sobre Lógica de Programação em C na UNIFESP para Python.
